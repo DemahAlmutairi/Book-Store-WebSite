@@ -10,7 +10,7 @@
         <form action="LAB3Q2P2.html">
             <p> <label> your Name: <input type="text" placeholder="ex. lamsam" required> </label> </p> 
             <p> <label> Password:  <input type="password" placeholder="ex. lamsam" required> </label> </p> 
-            <p> <label> Email:  <input type="email" placeholder="name@domain.com" required> </label> </p> 
+            <p> <label> Email:  <input type="email" placeholder="name@domain.com"> </label> </p> 
             <p><label> Telephone number: 
                 <input type="tel" placeholder="(###) ###-####" pattern="\(\d{3}\) +\d{3}-\d{4}">
             </label></p>
